@@ -2,7 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b008b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+PÂMELLA+FLOR+A;I'm+22+years+old;I+am+from+Caruaru,+PE;I+study+analysis+and+systems+development+at+NOVAROMA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/pamellaflor/pamellaflor/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pamellaflor&show_icons=true&count_private=true&hide_border=true&title_color=7a297a&icon_color=7a297a&text_color=c9d1d9&bg_color=0d1117" alt="Pamella Flor github stats" /> 
